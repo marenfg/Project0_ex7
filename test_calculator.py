@@ -1,4 +1,4 @@
-#Exercise 1 in Project0
+#Exercise 1
 #importing libraries
 import math
 import pytest
